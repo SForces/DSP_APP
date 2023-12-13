@@ -1,2 +1,2 @@
-# DSP_APP
+# Dolmuş Seferleri Projesi
 Dolmuş Seferleri Projesi uygulaması
